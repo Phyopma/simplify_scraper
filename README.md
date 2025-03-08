@@ -127,4 +127,4 @@ The tool saves results to `tracker_data.json` in the current directory. This fil
 
 ## License
 
-[Your License Here]
+This project is completely free to use, modify, and distribute. No attribution required. Do whatever you want with it.
