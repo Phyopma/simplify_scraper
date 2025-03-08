@@ -18,7 +18,7 @@ This tool interfaces with the Simplify Jobs API to extract your job application 
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/simplify_scraper.git
+   git clone https://github.com/Phyopma/simplify_scraper.git
    cd simplify_scraper
    ```
 
